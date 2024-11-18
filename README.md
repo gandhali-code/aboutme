@@ -34,7 +34,7 @@ I’m a **Data Scientist** with a strong passion for transforming data into acti
 ---
 
 ### 📬 Let’s Connect!
-- **LinkedIn**: [https://www.linkedin.com/in/gandhalikokate/](#)
+- **LinkedIn**: https://www.linkedin.com/in/gandhalikokate/
 - **Email**: [gandhalikokate24@gmail.com](mailto:gandhalikokate24@gmail.com)
 - **Portfolio** : https://gandhali-code.github.io/gandhalikokate/
 
