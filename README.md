@@ -17,43 +17,25 @@ I’m a **Data Scientist** with a strong passion for transforming data into acti
 - **Languages**: Python, R, SQL, Java
 - **Tools & Frameworks**: PyTorch, TensorFlow, Power BI, Tableau
 - **Databases**: MongoDB, MySQL
-- **Cloud**: AWS, MongoDB Atlas
+- **Cloud**: AWS, MongoDB 
 
 ---
 
-### 📈 Projects I'm Proud Of
-- **Demand Forecasting for Beverage Alcohol**  
+### 📈 Ongoing Projects I'm Proud Of
+- **Demand Forecasting for Total Wine**  
   Leveraged **XGBoost** to predict sales for sparkling wine, achieving a MAPE < 10%.  
-  _Tools: Python, Power BI_
+  _Tools: Python, Power BI, ML, Excel_
 
-- **HPAI Compliance Score App**  
-  Developed a web app using **Node.js** and **MongoDB** for biosecurity compliance. Applied logistic regression for predictive insights.
 
-- **Social Media Trends Analysis**  
-  Boosted Instagram engagement by 15% for UMD Dining through Python-based models.
-
----
-
-### 🎓 Education
-- **Master of Science in Business Analytics**  
-  University of Maryland, Robert H. Smith School of Business  
-  *(Aug 2023 - Dec 2024)*  
-
-- **Bachelor of Engineering in Computer Engineering**  
-  Savitribai Phule Pune University  
-  *(Aug 2017 - Jun 2021)*  
-
----
-
-### 🌱 Currently Learning
-- Advanced **Price Optimization** techniques  
-- **AI/ML** tools for business applications  
+- **Sales Forecasting for Dining Services**  
+  Leverage **LSTM** to forecast 4 years of sales for UMD Dining with historical data.
+  _Tools: Python, Tableau, ML, Excel_
 
 ---
 
 ### 📬 Let’s Connect!
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **GitHub**: [Your GitHub Profile](https://github.com/gandhalikokate)
-- **Email**: [Your Email Address](mailto:your.email@example.com)
+- **LinkedIn**: [https://www.linkedin.com/in/gandhalikokate/](#)
+- **Email**: [gandhalikokate24@gmail.com](mailto:gandhalikokate24@gmail.com)
+- **Portfolio** : https://gandhali-code.github.io/gandhalikokate/
 
 ---
