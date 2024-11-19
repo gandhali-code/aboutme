@@ -8,7 +8,7 @@ I’m a **Data Scientist** with a strong passion for transforming data into acti
 
 ### 🚀 What I Do
 - **Data Science & Analytics**: I build predictive models, conduct statistical analyses, and create dashboards to uncover insights.
-- **Machine Learning**: Developing models for forecasting, classification, and recommendation systems.
+- **Machine Learning**: Developing models for forecasting, classification, and predictive systems.
 - **Business Intelligence**: Designing Power BI and Tableau dashboards to communicate complex data effectively.
 
 ---
